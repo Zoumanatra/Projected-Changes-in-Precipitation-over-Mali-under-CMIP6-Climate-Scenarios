@@ -1,5 +1,5 @@
 # Future Evolution of the Rainy Season in Mali under CMIP6 Climate Projections
-#Objective
+# Objective
 This project investigates future changes in the rainy season over Mali using CMIP6 climate projections.
 
 ## Study Area
